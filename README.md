@@ -26,3 +26,11 @@ git config user.email <email>
 step 5 
 command line
 git push
+
+step 6 
+create env 
+conda create -n <envname> python=3.11 -y 
+
+step 7 
+activate the env
+conda activate <envname>
