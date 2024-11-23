@@ -12,3 +12,17 @@ https://github.com/mithuxn/chatbot-ollama.git
 step 3 
 
 open the project in ide 
+
+step 4 
+
+configure git with ur username and mail ID
+
+command line
+git config user.name <username> 
+
+commandline 
+git config user.email <email>
+
+step 5 
+command line
+git push
